@@ -1,0 +1,27 @@
+.container {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.banner {
+  background-image: url("musee.jpg") ;
+  background-size: cover;
+  color: white;
+  padding: 120px 0;
+  text-align: center;
+}
+
+h1, h2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+h4 {
+  color: grey;
+  font-family: 'Montserrat', sans-serif
+  font-weight: normal;
+}
+
+body {
+  margin: 0;
+}
